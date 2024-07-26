@@ -1,6 +1,6 @@
 # Windows-Spectre-Meltdown-Mitigation-Script
 
-[![VirusTotal Scan](https://github.com/simeononsecurity/Windows-Spectre-Meltdown-Mitigation-Script/actions/workflows/virustotal.yml/badge.svg)](https://github.com/simeononsecurity/Windows-Spectre-Meltdown-Mitigation-Script/actions/workflows/virustotal.yml)
+ [![Sponsor](https://img.shields.io/badge/Sponsor-Click%20Here-ff69b4)](https://github.com/sponsors/simeononsecurity) [![VirusTotal Scan](https://github.com/simeononsecurity/Windows-Spectre-Meltdown-Mitigation-Script/actions/workflows/virustotal.yml/badge.svg)](https://github.com/simeononsecurity/Windows-Spectre-Meltdown-Mitigation-Script/actions/workflows/virustotal.yml)
 
 #### https://support.microsoft.com/en-us/help/4073119/protect-against-speculative-execution-side-channel-vulnerabilities-in
 **Simple script to implement protections against speculative execution side-channel vulnerabilities in Windows systems.**
